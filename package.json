@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bairamau/portfolio/issues"
   },
-  "homepage": "https://github.com/bairamau/portfolio#readme"
+  "homepage": "https://github.com/bairamau/portfolio#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
 }
