@@ -240,7 +240,7 @@ $inputBorder: rgba(31, 64, 111, 0.2);
 .section-contact {
   background: $lightGrey;
 
-  .socials-list {
+  .contacts-list {
     padding: 16px 0 20px 0;
     display: grid;
     grid-auto-flow: column;
@@ -248,7 +248,7 @@ $inputBorder: rgba(31, 64, 111, 0.2);
     grid-gap: 16px;
     justify-content: center;
 
-    .social {
+    .contact {
       width: 48px;
       height: 48px;
       border-radius: 50%;
