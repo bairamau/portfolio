@@ -9,6 +9,7 @@ $skyBlue: #71abff;
 $telegram: #2ca5e0;
 $facebook: #395a99;
 $twitter: #51adef;
+$github: #555555;
 $inputBorder: rgba(31, 64, 111, 0.2);
 
 .main-heading,
@@ -285,6 +286,15 @@ $inputBorder: rgba(31, 64, 111, 0.2);
         }
         &:active {
           background: rgba($facebook, 0.7);
+        }
+      }
+      &.github {
+        background: $github;
+        &:hover {
+          background: rgba($github, 0.8);
+        }
+        &:active {
+          background: rgba($github, 0.7);
         }
       }
     }
